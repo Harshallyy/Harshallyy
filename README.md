@@ -6,6 +6,7 @@
 <p > Currently building data projects in Python (like Netflix content analysis), and actively solving DSA problems on platforms like Codeforces (1400+ rating, https://codeforces.com/profile/Harshallyy) and CodeChef (1400+ rating, https://codechef.com/users/harshallyy)). </p>
 
 <p> I’ve also taught 200+ hours of logic puzzles and analytical reasoning to students — combining clarity, patience, and strategic thinking. </p>
+<p> Competitive chess player with a 2000+ online rating on various platforms and a state-level ranking 46th in the Rajasthan Rapid Chess Championship. </p>
  
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Harshallyy&label=Profile%20views&color=0e75b6&style=flat" alt="Harshallyy" /> </p>
 
