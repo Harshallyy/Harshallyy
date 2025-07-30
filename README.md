@@ -1,9 +1,9 @@
 ### Hi There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ### About Me:  
-<p> Hi, I am Harshal Gautam — an Economics graduate turned aspiring Front‑End Developer, combining a logical mindset with skills in web development, Python, and competitive programming. I love turning ideas into interactive, responsive, and clean web apps while sharpening my problem‑solving ability through coding challenges. </p>
+<p> Hi, I am Harshal Gautam — an Economics graduate turned aspiring Front‑End Developer, combining a logical mindset with skills in <b>Python, C++, HTML, CSS, JavaScript (Vanilla JS), and React</b>. I love turning ideas into interactive, responsive, and clean web apps while sharpening my problem‑solving ability through coding challenges. </p>
 
-<p> Currently building interactive web apps like 🐍 Snakeiyaara (Snake Game), 📝 To‑Do List, and 🍽️ Tummyfy (Food Delivery). Also creating mini‑projects (BMI Calculator, Color Changer, Fitness Landing Pages) to master HTML, CSS, and JavaScript. </p>
+<p> Currently building interactive web apps like 🐍 Snakeiyaara (Snake Game), 📝 To‑Do List, and 🍽️ Tummyfy (Food Delivery). Also creating mini‑projects (BMI Calculator, Color Changer, Fitness Landing Pages) to master <b>HTML, CSS, and JavaScript</b>. </p>
 
 <p> Actively solving DSA problems on <a href="https://codeforces.com/profile/Harshallyy">Codeforces</a> (1400+) & <a href="https://www.codechef.com/users/harshallyy">CodeChef</a> (1400+). </p>
 
@@ -31,4 +31,5 @@
 <br/>
 
 ✨ I love building, learning, and sharing ideas — let’s connect and make something awesome together.
+
 
