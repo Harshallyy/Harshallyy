@@ -5,15 +5,19 @@ I’m **Harshal Gautam**, a **Full Stack Developer** with a strong focus on **Ba
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Harshallyy&label=Profile%20views&color=0e75b6&style=flat" alt="Harshallyy" /> </p>
 
 <hr>
-#### 🛠 My Favourite Languages  
 
+#### 🛠 Tech Stack  
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 #### 🌐 Web Development  
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -24,6 +28,6 @@ I’m **Harshal Gautam**, a **Full Stack Developer** with a strong focus on **Ba
 
 <br/>
 
-✨ I love building, learning, and sharing ideas — let’s connect and make something awesome together.
+✨ Building scalable apps, learning daily, and solving real-world problems.
 
 
