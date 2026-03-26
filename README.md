@@ -1,16 +1,15 @@
 ### Hi There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ### About Me:  
-<p> Hi, I am Harshal Gautam — an Economics graduate turned aspiring Front‑End Developer, combining a logical mindset with skills in <b>Python, C++, HTML, CSS, JavaScript (Vanilla JS), and React</b>. I love turning ideas into interactive, responsive, and clean web apps while sharpening my problem‑solving ability through coding challenges. </p>
+<p> Hi, I am Harshal Gautam — a Full Stack Developer with a strong focus on backend development, combining a logical mindset with skills in <b>Node.js, Express, MongoDB, JavaScript, React, C++, and Python</b>. I enjoy building clean, scalable, and practical web applications. </p>
 
-<p> Currently building interactive web apps like 🐍 Snakeiyaara (Snake Game), 📝 To‑Do List, and 🍽️ Tummyfy (Food Delivery). Also created mini‑projects (BMI Calculator, Color Changer, Fitness Landing Pages) to master <b>HTML, CSS, and JavaScript</b>. </p>
+<p> I have worked on real-world projects including authentication systems, data-driven apps, and full-stack applications using the MERN stack. </p>
 
 <p> Actively solving DSA problems on <a href="https://codeforces.com/profile/Harshallyy">Codeforces</a> (1400+) & <a href="https://www.codechef.com/users/harshallyy">CodeChef</a> (1400+). </p>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Harshallyy&label=Profile%20views&color=0e75b6&style=flat" alt="Harshallyy" /> </p>
 
 <hr>
-
 #### 🛠 My Favourite Languages  
 
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
