@@ -1,11 +1,6 @@
 ### Hi There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-### About Me:  
-<p> Hi, I am Harshal Gautam — a Full Stack Developer with a strong focus on backend development, combining a logical mindset with skills in <b>Node.js, Express, MongoDB, JavaScript, React, C++, and Python</b>. I enjoy building clean, scalable, and practical web applications. </p>
-
-<p> I have worked on real-world projects including authentication systems, data-driven apps, and full-stack applications using the MERN stack. </p>
-
-<p> Actively solving DSA problems on <a href="https://codeforces.com/profile/Harshallyy">Codeforces</a> (1400+) & <a href="https://www.codechef.com/users/harshallyy">CodeChef</a> (1400+). </p>
+I’m **Harshal Gautam**, a **Full Stack Developer** with a strong focus on **Backend (Node.js, Express, MongoDB)**, building practical and scalable web applications.
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Harshallyy&label=Profile%20views&color=0e75b6&style=flat" alt="Harshallyy" /> </p>
 
