@@ -36,9 +36,11 @@ I am a passionate **Full Stack Developer** with a strong logical foundation, spe
 ### 📊 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harshallyy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Harshallyy's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshallyy&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+
+![Harshallyy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshallyy&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshallyy&layout=compact&theme=tokyonight&hide_border=true)
+
 </div>
 
 ---
