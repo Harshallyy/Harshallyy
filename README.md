@@ -27,4 +27,21 @@ I am a passionate **Full Stack Developer** with a strong logical foundation, spe
 
 ### 📁 Portfolio Projects
 
-- 🌱 **[Farmer-Helper](
+- 🌱 **[Farmer-Helper](https://github.com/Harshallyy/Farmer-Helper)**: A comprehensive MERN stack application featuring dynamic React interfaces, weather API integration, and backend-driven price prediction logic.
+- 💼 **[gigFlow25](https://github.com/Harshallyy/gigFlow25)**: A scalable platform demonstrating efficient state management in React alongside secure Node.js routing.
+- ☕ **[Office-Cafeteria-App](https://github.com/Harshallyy/Office-Cafeteria-App)**: A full-stack inventory and order management system bridging frontend views with database operations.
+
+---
+
+### 📊 My GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Harshallyy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Harshallyy's GitHub Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshallyy&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+</div>
+
+---
+
+### 📫 Connect with Me
+[LinkedIn](https://www.linkedin.com/in/Harshallyy) | [Email](mailto:Harshal09kota@gmail.com)
