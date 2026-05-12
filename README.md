@@ -43,7 +43,7 @@ I am a passionate **Full Stack Developer** with a strong logical foundation, spe
 
 </div>
 
----
+----
 
 ### 📫 Connect with Me
 [LinkedIn](https://www.linkedin.com/in/Harshallyy) | [Email](mailto:Harshal09kota@gmail.com)
