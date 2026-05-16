@@ -31,7 +31,7 @@ I am a passionate **Full Stack Developer** with a strong logical foundation, spe
 - 💼 **[gigFlow25](https://github.com/Harshallyy/gigFlow25)**: A scalable platform demonstrating efficient state management in React alongside secure Node.js routing.
 - ☕ **[Office-Cafeteria-App](https://github.com/Harshallyy/Office-Cafeteria-App)**: A full-stack inventory and order management system bridging frontend views with database operations.
 
----
+----
 
 ### 📊 My GitHub Stats
 
