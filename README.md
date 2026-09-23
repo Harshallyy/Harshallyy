@@ -11,18 +11,14 @@
 </p>
 
 ---
-
 ## 👨‍💻 About Me
 
-- 🎓 Economics postgraduate transitioning into software development.
-- 💻 Aspiring Java Full Stack Developer focused on building practical web applications.
+- 💻 Aspiring Java Full Stack Developer.
 - ☕ Working with Java, Spring Boot, REST APIs, and database-driven applications.
-- 🔐 Exploring secure backend development using Spring Security, JWT, and role-based access control.
+- 🔐 Exploring Spring Security, JWT Authentication, and Role-Based Access Control.
 - 🧩 Practicing Data Structures and Algorithms to strengthen problem-solving skills.
-- 🚀 Interested in developing scalable applications and integrating AI-powered features.
-
+- 🚀 Interested in building scalable web applications and AI-integrated solutions.
 ---
-
 ## 🛠️ Technical Skills
 
 ### Programming Languages
