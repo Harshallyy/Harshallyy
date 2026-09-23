@@ -1,6 +1,5 @@
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:1a1b26,100:24283b&text=Harshal%20Gautam&fontColor=FFFFFF&fontSize=52&fontAlignY=40&desc=Aspiring%20Java%20Full%20Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=68&descSize=18" width="100%" alt="Harshal Gautam - Aspiring Java Full Stack Developer" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:1a1b26,100:24283b&text=Harshal%20Gautam&fontColor=7AA2F7&fontSize=52&fontAlignY=40&desc=Aspiring%20Java%20Full%20Stack%20Developer&descAlignY=68&descSize=18" width="100%" alt="Harshal Gautam - Aspiring Java Full Stack Developer" />
 </p>
 
 <p align="center">
@@ -10,7 +9,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Harshallyy&label=PROFILE%20VIEWS&color=7aa2f7&style=for-the-badge" alt="Profile Views" />
 </p>
-
 ---
 
 <p align="center">
