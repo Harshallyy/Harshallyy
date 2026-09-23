@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:1a1b26,100:24283b&text=Harshal%20Gautam&fontColor=7AA2F7&fontSize=52&fontAlignY=40&desc=Aspiring%20Java%20Full%20Stack%20Developer&descAlignY=68&descSize=18" width="100%" alt="Harshal Gautam - Aspiring Java Full Stack Developer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:1a1b26,100:24283b&text=Harshal%20Gautam&fontColor=7AA2F7&fontSize=52&fontAlignY=40&desc=Aspiring%20Java%20Full%20Stack%20Developer&descAlignY=68&descSize=18" width="100%" alt="Harshal Gautam - Aspiring Java Full Stack Developer" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=600&lines=Building+with+Java+%26+Spring+Boot;Creating+Full+Stack+Applications;Learning+%26+Building+Every+Day" alt="Animated typing text" />
 </p>
 
 <p align="center">
