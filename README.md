@@ -1,6 +1,7 @@
 <h1 align="center">Hi, I'm Harshal Gautam 👋</h1>
 
-<h3 align="center">Aspiring Java Full Stack Developer | Problem Solver</h3>
+<h3 align="center">Aspiring Java Full Stack Developer
+</h3>
 
 <p align="center">
   Building web applications with Java, Spring Boot, React, and modern backend technologies.
