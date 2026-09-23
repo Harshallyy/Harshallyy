@@ -98,12 +98,10 @@ A campaign and donation management application focused on campaign management, v
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harshallyy&show_icons=true&hide_border=true&theme=transparent" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshallyy&layout=compact&hide_border=true&theme=transparent" height="165" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Harshallyy&hide_border=true&theme=transparent" alt="GitHub Streak Stats" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshallyy&layout=compact&hide_border=true"
+    alt="Top Languages"
+  />
 </p>
 
 ---
