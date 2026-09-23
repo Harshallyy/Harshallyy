@@ -95,17 +95,6 @@ A campaign and donation management application focused on campaign management, v
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harshallyy&show_icons=true&hide_border=true&theme=tokyonight" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshallyy&layout=compact&hide_border=true&theme=tokyonight" height="165" alt="Top Languages" />
-</p>
-
----
-
----
-
 ## 🏆 Achievements & DSA
 
 - Solved **150+ DSA problems** across LeetCode, CodeChef, and Codeforces.
