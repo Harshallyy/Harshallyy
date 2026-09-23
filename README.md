@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:1a1b26,50:24283b,100:7aa2f7&text=Harshal%20Gautam&fontColor=c0caf5&fontSize=52&fontAlignY=40&desc=Aspiring%20Java%20Full%20Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=62&descSize=17" width="100%" alt="Harshal Gautam - Java Full Stack Developer" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:1a1b26,100:24283b&text=Harshal%20Gautam&fontColor=FFFFFF&fontSize=52&fontAlignY=40&desc=Aspiring%20Java%20Full%20Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=68&descSize=18" width="100%" alt="Harshal Gautam - Aspiring Java Full Stack Developer" />
 </p>
 
 <p align="center">
@@ -131,17 +131,20 @@ A campaign and donation management application focused on campaign management, v
 </p>
 
 ---
+## 🏆 Achievements & DSA
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=55&color=0:24283b,100:414868&text=ACHIEVEMENTS%20%26%20DSA&fontColor=bb9af7&fontSize=25&fontAlignY=55" width="100%" alt="Achievements and DSA" />
-</p>
-
-- 🧩 Solved **150+ DSA problems** across LeetCode, CodeChef, and Codeforces.
-- 🏅 **AIR 7** in the Intelligence Bureau Security Assistant Examination (May 2023).
-- ♟️ Chess.com peak ratings:
+- Solved **150+ DSA problems** across LeetCode, CodeChef, and Codeforces.
+- **AIR 7** in the Intelligence Bureau Security Assistant Examination (May 2023).
+- Chess.com peak ratings:
   - Blitz: **2271**
   - Rapid: **2083**
-- 🏆 Ranked **46th in Rajasthan Rapid Chess Championship** (March 2025).
+- Ranked **46th in Rajasthan Rapid Chess Championship** (March 2025).
+
+### Coding Profiles
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-E0AF68?style=flat-square&logo=leetcode&logoColor=1A1B26)](https://leetcode.com/u/Harshallyy/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-BB9AF7?style=flat-square&logo=codechef&logoColor=1A1B26)](https://www.codechef.com/users/harshallyy)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Profile-7AA2F7?style=flat-square&logo=codeforces&logoColor=1A1B26)](https://codeforces.com/profile/Harshallyy)
 
 ### Coding Profiles
 
