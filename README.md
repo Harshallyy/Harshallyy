@@ -1,59 +1,6 @@
 <p align="center">
-  <svg width="100%" height="130" viewBox="0 0 700 130"
-       xmlns="http://www.w3.org/2000/svg">
-
-    <defs>
-      <radialGradient id="glow">
-        <stop offset="0%" stop-color="#7AA2F7" stop-opacity="0.65"/>
-        <stop offset="100%" stop-color="#BB9AF7" stop-opacity="0"/>
-      </radialGradient>
-    </defs>
-
-    <!-- Soft moving glow -->
-    <circle cx="350" cy="65" r="55" fill="url(#glow)">
-      <animate attributeName="cx"
-               values="290;410;290"
-               dur="5s"
-               repeatCount="indefinite"/>
-      <animate attributeName="r"
-               values="42;62;42"
-               dur="4s"
-               repeatCount="indefinite"/>
-    </circle>
-
-    <!-- Orbiting circles -->
-    <g transform="translate(350 65)">
-      <ellipse rx="150" ry="35" fill="none"
-               stroke="#7AA2F7" stroke-opacity="0.35"
-               stroke-width="2">
-        <animateTransform attributeName="transform"
-                          type="rotate"
-                          from="0" to="360"
-                          dur="12s"
-                          repeatCount="indefinite"/>
-      </ellipse>
-
-      <circle cx="150" cy="0" r="7" fill="#7AA2F7">
-        <animateTransform attributeName="transform"
-                          type="rotate"
-                          from="0" to="360"
-                          dur="12s"
-                          repeatCount="indefinite"/>
-      </circle>
-    </g>
-
-    <!-- Name -->
-    <text x="350" y="77"
-          text-anchor="middle"
-          font-family="Arial, sans-serif"
-          font-size="48"
-          font-weight="700"
-          fill="#414868">
-      Harshal Gautam
-    </text>
-  </svg>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=150&text=Harshal%20Gautam&fontColor=414868&fontSize=52&fontAlignY=50&animation=fadeIn" width="100%" alt="Harshal Gautam" />
 </p>
-
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=600&lines=Building+with+Java+%26+Spring+Boot;Creating+Full+Stack+Applications;Learning+%26+Building+Every+Day" alt="Animated typing text" />
