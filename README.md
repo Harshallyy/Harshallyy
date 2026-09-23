@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:1a1b26,100:24283b&text=Harshal%20Gautam&fontColor=7AA2F7&fontSize=52&fontAlignY=40&desc=Aspiring%20Java%20Full%20Stack%20Developer&descAlignY=68&descSize=18" width="100%" alt="Harshal Gautam - Aspiring Java Full Stack Developer" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=150&text=Harshal%20Gautam&fontColor=414868&fontSize=52&fontAlignY=50&animation=fadeIn" width="100%" alt="Harshal Gautam" />
 </p>
 
 <p align="center">
