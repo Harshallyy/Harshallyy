@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="./harshal_morphing_header.gif" alt="Harshal Gautam" width="100%" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=venom&height=150&color=0:BB9AF7,50:7DCFFF,100:BB9AF7&text=Harshal%20Gautam&fontColor=414868&fontSize=52&fontAlignY=50"
+    width="100%"
+    alt="Harshal Gautam"
+  />
 </p>
 
 <p align="center">
