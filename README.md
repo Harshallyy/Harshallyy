@@ -1,17 +1,18 @@
+
 <h1 align="center">Hi, I'm Harshal Gautam 👋</h1>
 
-<h3 align="center">Aspiring Java Full Stack Developer
-</h3>
+<h3 align="center">Aspiring Java Full Stack Developer | Problem Solver</h3>
 
 <p align="center">
   Building web applications with Java, Spring Boot, React, and modern backend technologies.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Harshallyy&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Harshallyy&label=Profile%20Views&color=7aa2f7&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
+
 ## 👨‍💻 About Me
 
 - 💻 Aspiring Java Full Stack Developer.
@@ -19,48 +20,56 @@
 - 🔐 Exploring Spring Security, JWT Authentication, and Role-Based Access Control.
 - 🧩 Practicing Data Structures and Algorithms to strengthen problem-solving skills.
 - 🚀 Interested in building scalable web applications and AI-integrated solutions.
+
 ---
+
 ## 🛠️ Technical Skills
 
 ### Programming Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+![Java](https://img.shields.io/badge/Java-7AA2F7?style=flat-square&logo=openjdk&logoColor=1A1B26)
+![JavaScript](https://img.shields.io/badge/JavaScript-E0AF68?style=flat-square&logo=javascript&logoColor=1A1B26)
+![C](https://img.shields.io/badge/C-7AA2F7?style=flat-square&logo=c&logoColor=1A1B26)
+![C++](https://img.shields.io/badge/C%2B%2B-BB9AF7?style=flat-square&logo=cplusplus&logoColor=1A1B26)
+![Python](https://img.shields.io/badge/Python-7DCFFF?style=flat-square&logo=python&logoColor=1A1B26)
+![SQL](https://img.shields.io/badge/SQL-565F89?style=flat-square&logo=mysql&logoColor=C0CAF5)
 
 ### Frontend Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+![HTML5](https://img.shields.io/badge/HTML5-F7768E?style=flat-square&logo=html5&logoColor=1A1B26)
+![CSS3](https://img.shields.io/badge/CSS3-7AA2F7?style=flat-square&logo=css3&logoColor=1A1B26)
+![React](https://img.shields.io/badge/React-7DCFFF?style=flat-square&logo=react&logoColor=1A1B26)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-BB9AF7?style=flat-square&logo=bootstrap&logoColor=1A1B26)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-2AC3DE?style=flat-square&logo=tailwindcss&logoColor=1A1B26)
 
 ### Backend Development
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-9ECE6A?style=flat-square&logo=springboot&logoColor=1A1B26)
+![Node.js](https://img.shields.io/badge/Node.js-9ECE6A?style=flat-square&logo=nodedotjs&logoColor=1A1B26)
+![Express.js](https://img.shields.io/badge/Express.js-565F89?style=flat-square&logo=express&logoColor=C0CAF5)
+![Maven](https://img.shields.io/badge/Maven-F7768E?style=flat-square&logo=apachemaven&logoColor=1A1B26)
 
 ### Java & Backend Concepts
+
 - Core Java, Object-Oriented Programming, Exception Handling
 - Collection Framework, JDBC, REST APIs, JSON
 - JWT Authentication, Spring Security, Role-Based Access Control
 - CRUD Operations, MVC Architecture, Client-Server Architecture
 
 ### Databases
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+![Oracle](https://img.shields.io/badge/Oracle-F7768E?style=flat-square&logo=oracle&logoColor=1A1B26)
+![MySQL](https://img.shields.io/badge/MySQL-7AA2F7?style=flat-square&logo=mysql&logoColor=1A1B26)
+![MongoDB](https://img.shields.io/badge/MongoDB-9ECE6A?style=flat-square&logo=mongodb&logoColor=1A1B26)
 
 ### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-![Render](https://img.shields.io/badge/Render-000000?style=flat-square&logo=render&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F7768E?style=flat-square&logo=git&logoColor=1A1B26)
+![GitHub](https://img.shields.io/badge/GitHub-565F89?style=flat-square&logo=github&logoColor=C0CAF5)
+![Postman](https://img.shields.io/badge/Postman-E0AF68?style=flat-square&logo=postman&logoColor=1A1B26)
+![Netlify](https://img.shields.io/badge/Netlify-2AC3DE?style=flat-square&logo=netlify&logoColor=1A1B26)
+![Render](https://img.shields.io/badge/Render-565F89?style=flat-square&logo=render&logoColor=C0CAF5)
+![Vercel](https://img.shields.io/badge/Vercel-565F89?style=flat-square&logo=vercel&logoColor=C0CAF5)
 
 ---
 
@@ -77,9 +86,9 @@ A web application designed to help farmers make informed harvesting decisions us
 
 **Tech Stack:** React · Node.js · Express.js · MongoDB · Bootstrap
 
-[![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/Harshallyy/Farmer-Helper)
-[![Live Demo](https://img.shields.io/badge/Live-Frontend-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://farmerhelper.netlify.app/)
-[![Backend](https://img.shields.io/badge/Backend-Render-000000?style=flat-square&logo=render)](https://farmer-helper-a8io.onrender.com/)
+[![Repository](https://img.shields.io/badge/GitHub-Repository-565F89?style=flat-square&logo=github&logoColor=C0CAF5)](https://github.com/Harshallyy/Farmer-Helper)
+[![Live Demo](https://img.shields.io/badge/Live-Frontend-2AC3DE?style=flat-square&logo=netlify&logoColor=1A1B26)](https://farmerhelper.netlify.app/)
+[![Backend](https://img.shields.io/badge/Backend-Render-7AA2F7?style=flat-square&logo=render&logoColor=1A1B26)](https://farmer-helper-a8io.onrender.com/)
 
 ### 2. FundFlow
 
@@ -92,7 +101,7 @@ A campaign and donation management application focused on campaign management, v
 
 **Tech Stack:** Java 21 · Spring Boot · Oracle AI Database 26ai · Spring Security · JWT · Spring AI · Ollama · Mistral
 
-[![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/Harshallyy/FundFlow)
+[![Repository](https://img.shields.io/badge/GitHub-Repository-565F89?style=flat-square&logo=github&logoColor=C0CAF5)](https://github.com/Harshallyy/FundFlow)
 
 ---
 
@@ -107,9 +116,9 @@ A campaign and donation management application focused on campaign management, v
 
 ### Coding Profiles
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/Harshallyy/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/harshallyy)
-[![Codeforces](https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Harshallyy)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-E0AF68?style=flat-square&logo=leetcode&logoColor=1A1B26)](https://leetcode.com/u/Harshallyy/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-BB9AF7?style=flat-square&logo=codechef&logoColor=1A1B26)](https://www.codechef.com/users/harshallyy)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Profile-7AA2F7?style=flat-square&logo=codeforces&logoColor=1A1B26)](https://codeforces.com/profile/Harshallyy)
 
 ---
 
@@ -126,13 +135,13 @@ A campaign and donation management application focused on campaign management, v
 
 <p align="left">
   <a href="https://www.linkedin.com/in/Harshallyy">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-7AA2F7?style=flat-square&logo=linkedin&logoColor=1A1B26" alt="LinkedIn" />
   </a>
   <a href="mailto:Harshal09kota@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Contact-F7768E?style=flat-square&logo=gmail&logoColor=1A1B26" alt="Email" />
   </a>
   <a href="https://github.com/Harshallyy">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Follow-565F89?style=flat-square&logo=github&logoColor=C0CAF5" alt="GitHub" />
   </a>
 </p>
 
