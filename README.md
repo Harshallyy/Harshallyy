@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=150&text=Harshal%20Gautam&fontColor=414868&fontSize=52&fontAlignY=50&animation=fadeIn" width="100%" alt="Harshal Gautam" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=100&text=Harshal%20Gautam&fontColor=414868&fontSize=52&fontAlignY=50" alt="Harshal Gautam" />
 </p>
 
 <p align="center">
