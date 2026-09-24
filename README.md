@@ -148,12 +148,6 @@ A campaign and donation management application focused on campaign management, v
 
 ### Coding Profiles
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-E0AF68?style=flat-square&logo=leetcode&logoColor=1A1B26)](https://leetcode.com/u/Harshallyy/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-BB9AF7?style=flat-square&logo=codechef&logoColor=1A1B26)](https://www.codechef.com/users/harshallyy)
-[![Codeforces](https://img.shields.io/badge/Codeforces-Profile-7AA2F7?style=flat-square&logo=codeforces&logoColor=1A1B26)](https://codeforces.com/profile/Harshallyy)
-
-### Coding Profiles
-
 <p>
   <a href="https://leetcode.com/u/Harshallyy/">
     <img src="https://img.shields.io/badge/LeetCode-Profile-E0AF68?style=for-the-badge&logo=leetcode&logoColor=1A1B26" alt="LeetCode Profile" />
