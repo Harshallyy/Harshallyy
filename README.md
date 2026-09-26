@@ -17,7 +17,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Harshallyy&label=PROFILE%20VIEWS&color=7aa2f7&style=for-the-badge" alt="Profile Views" />
 </p>
----
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=55&color=0:24283b,100:414868&text=ABOUT%20ME&fontColor=bb9af7&fontSize=25&fontAlignY=55" width="100%" alt="About Me" />
