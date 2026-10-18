@@ -7,11 +7,11 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=600&lines=Building+with+Java+%26+Spring+Boot;Creating+Full+Stack+Applications;Learning+%26+Building+Every+Day" alt="Animated typing text" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=600&lines=Building+Full+Stack+Applications;Working+with+MERN+Stack+%26+Java;Exploring+New+Technologies+Every+Day" alt="Animated typing text" />
 </p>
 
 <p align="center">
-  Building web applications with Java, Spring Boot, React, and modern backend technologies.
+  Building full-stack web applications with React, MERN technologies, Java, and more.
 </p>
 
 <p align="center">
@@ -23,11 +23,11 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&height=55&color=0:24283b,100:414868&text=ABOUT%20ME&fontColor=bb9af7&fontSize=25&fontAlignY=55" width="100%" alt="About Me" />
 </p>
 
-- 💻 Aspiring Java Full Stack Developer.
-- ☕ Working with Java, Spring Boot, REST APIs, and database-driven applications.
-- 🔐 Exploring Spring Security, JWT Authentication, and Role-Based Access Control.
+- 💻 Aspiring Full-Stack Developer, open to exploring new technologies and tech stacks.
+- ⚛️ Building web applications with React, Node.js, Express.js, and Java/Spring Boot.
+- 🔗 Interested in frontend-backend integration, REST APIs, and database-driven applications.
 - 🧩 Practicing Data Structures and Algorithms to strengthen problem-solving skills.
-- 🚀 Interested in building scalable web applications and AI-integrated solutions.
+- 🚀 Interested in building useful web applications and continuously learning new tools and frameworks.
 
 ---
 
@@ -166,10 +166,10 @@ A campaign and donation management application focused on campaign management, v
   <img src="https://capsule-render.vercel.app/api?type=rect&height=55&color=0:24283b,100:414868&text=CURRENTLY%20LEARNING&fontColor=9ece6a&fontSize=25&fontAlignY=55" width="100%" alt="Currently Learning" />
 </p>
 
-- ☕ Advanced Java and multithreading
-- 🌱 Spring Boot and Spring ecosystem
-- 🔐 Spring Security and JWT-based authentication
-- 🤖 Spring AI and AI-integrated application development
+- 🌐 Full-stack development and frontend-backend integration
+- ⚛️ React, MERN stack, and modern web application development
+- ☕ Java, Spring Boot, and multithreading
+- 🔐 Spring Security, JWT, and AI-integrated application development
 
 ---
 
