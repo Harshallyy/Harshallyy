@@ -15,7 +15,10 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Harshallyy&label=PROFILE%20VIEWS&color=7aa2f7&style=for-the-badge" alt="Profile Views" />
+  <img
+    src="https://views-counter.vercel.app/badge?pageId=Harshallyy&label=PROFILE+VIEWS&leftColor=24283b&rightColor=7aa2f7&style=upper&type=total"
+    alt="Profile Views"
+  />
 </p>
 
 
